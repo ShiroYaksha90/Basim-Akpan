@@ -1,0 +1,13 @@
+#main{
+    background-color: grey;
+    }
+    #img-div{
+    background-color: white;
+    align-items: center;
+    }
+    img{
+      display: block;
+    }
+    #image{
+      max-width:100%;
+    }
